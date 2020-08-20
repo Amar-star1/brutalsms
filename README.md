@@ -9,3 +9,12 @@ https://m.facebook.com/Amar/Dhika/399
 # whatsapp : 
 
 083805408276
+
+# moddul :
+
+pkg update && pkg upgrade
+pkg install python2
+pkg install git
+git clone https://github.com/Amar-star1/brutalsms
+cd brutalsms
+Python2
