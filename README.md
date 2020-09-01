@@ -23,3 +23,6 @@ git clone https://github.com/Amar-star1/brutalsms
 cd brutalsms
 
 Python2 brutal.py
+
+#follow me
+<a href="https://m.facebook.com/Amar.Dhika.399"><img src="https://img.shields.io/badge/Follow-Facebook-blue.svg">
